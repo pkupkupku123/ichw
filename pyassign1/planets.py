@@ -9,7 +9,9 @@ import turtle as t
 import math as m
 
 def Planets(semimajor_axis, semi_focal_length, color, starsize):
-    """输入行星参数以定义行星画笔并返回作图所需参数
+    """输入行星参数（半长轴长，半焦距，颜色，星体大小）
+    定义行星画笔参数及初始位置
+    返回作图所需参数（画笔名，半长轴长，半焦距，半短轴长）
     """
     star = t.Turtle()
     star.shape('circle')
