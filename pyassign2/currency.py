@@ -22,7 +22,7 @@ def isinput_valid(currency_from, currency_to, currency_amt):
                      'LSL', 'AMD', 'LTL', 'ANG', 'LVL', 
                      'AOA', 'LYD', 'ARS', 'MAD', 'AUD',	
                      'MDL', 'AWG', 'MGA', 'AZN', 'MKD', 
-                     'BAM',	'MMK', 'BBD', 'MNT', 'BDT', 
+                     'BAM', 'MMK', 'BBD', 'MNT', 'BDT', 
                      'MOP', 'BGN', 'MRO', 'BHD', 'MTL', 
                      'BIF', 'MUR', 'BMD', 'MVR', 'BND', 
                      'MWK', 'BOB', 'MXN', 'BRL', 'MYR', 
